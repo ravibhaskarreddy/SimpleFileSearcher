@@ -36,7 +36,9 @@ A lightweight, high-performance Windows Forms application built with C# for sear
 
 ## 📸 Screenshots
 
-> Screenshots will be added soon.
+> <img width="1178" height="1068" alt="image" src="https://github.com/user-attachments/assets/99f2cdde-b333-4dcf-8e1a-cab7853c4ce4" />
+
+>  More Screenshots will be added soon.
 
 ---
 
